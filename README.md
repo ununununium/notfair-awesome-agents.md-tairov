@@ -90,6 +90,7 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 - [Product Strategist](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/business-marketing/product-strategist.md) - Product strategy and roadmap planning specialist.
 - [Risk Manager](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/business-marketing/risk-manager.md) - Risk management and portfolio analysis specialist.
 - [Sales Automator](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/business-marketing/sales-automator.md) - Sales automation and outreach specialist.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ### Data AI
 
